@@ -1,11 +1,9 @@
 img{
-  background-repeat: no-repeat;
-  background-size: cover;
   margin-bottom: 20px;
 }
 #tec,#gen,#ent{
   border-radius: 5%;
-  margin-top: 100px;
+  margin-top: 70px;
 }
 #tec{
   background-color: rgba(102, 153, 153, 0.3);
